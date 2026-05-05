@@ -8,7 +8,7 @@
 
 Resumes are static, one-dimensional, and often fail to communicate how a candidate actually thinks, speaks, and presents themselves.
 
-Recruiters evaluate communication skills, clarity, and personality — but a PDF cannot capture any of this.
+Recruiters evaluate communication skills, clarity, and personality, but a PDF cannot capture any of this.
 
 ---
 
@@ -29,6 +29,14 @@ Instead of reading bullet points, you can:
 ## 🎧 Try it yourself
 
 👉 [Talk to my AI version](https://elevenlabs.io/app/talk-to?agent_id=agent_1301kpwfgmj6etp9w5pzt4qhp2jx&branch_id=agtbrch_2001kpwfgne8ftctc44vxbmvf20w)
+
+## 📸 Screenshots
+
+### Agent Interface
+![Agent UI](./agent-ui.png)
+
+### Enhanced UI via embedding into portfolio website
+![Conversation](./conversation.png)
 
 ---
 
